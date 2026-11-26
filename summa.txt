@@ -1,0 +1,4 @@
+summa: 0
+toetajaid: 0
+link: 
+uuendatud: 
